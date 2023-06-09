@@ -1,4 +1,4 @@
-# IPL Team ELimination Detection
+# IPL Team ELimination Problem
 
 This project aims to determine if a particular team in the Indian Premier League (IPL) has a chance of finishing the season with the most wins. The focus is on the group stage of the tournament, where the top 4 teams qualify for the playoffs.
 
@@ -53,6 +53,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
 
 ## Credits
 
